@@ -16,6 +16,10 @@ Evaluate influencer campaigns based on revenue, payout, and ROAS to identify hig
 - Instagram outperformed YouTube in conversion efficiency
 - A small set of influencers drove most of the returns
 
+- ## Project Structure
+- `data_modeling.sql` → table creation and data modeling
+- `analysis.ipynb` → queries, outputs, and insights
+
 ## Stack
 - SQL (Databricks)
 - Data modeling (fact/dimension)
