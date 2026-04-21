@@ -1,0 +1,51 @@
+influencer_id,campaign,product,source,total_orders,total_revenue,total_payout,roas,category,platform,follower_count
+20,Fitness_Feb,Protein Bar,Instagram,24,18000.00,10800,1.6666666666667,Fitness,Instagram,89000
+23,Fitness_Mar,Protein Bar,Instagram,29,22000.00,17400,1.2643678160920,Fitness,Instagram,145000
+1,MB_Protein_Jan,Whey Protein,Instagram,25,50000.00,20000,2.5000000000000,Fitness,Instagram,120000
+6,HKVitals_Jan,Multivitamin,Instagram,22,22000.00,11000,2.0000000000000,Nutrition,Instagram,78000
+7,MB_Bulk_Jan,Mass Gainer,YouTube,35,87000.00,55000,1.5818181818182,Bodybuilding,YouTube,180000
+14,Wellness_Feb,Omega 3,Instagram,14,14000.00,7700,1.8181818181818,Wellness,Instagram,82000
+16,Yoga_Feb,Yoga Mat,Instagram,11,11000.00,5500,2.0000000000000,Yoga,Instagram,91000
+4,Yoga_Jan,Yoga Mat,Instagram,12,12000.00,7200,1.6666666666667,Yoga,Instagram,95000
+9,MB_Protein_Jan,Whey Protein,YouTube,45,105000.00,140000,0.7500000000000,Bodybuilding,YouTube,210000
+24,HKVitals_Mar,Multivitamin,Instagram,17,17000.00,8500,2.0000000000000,Nutrition,Instagram,79000
+27,Fitness_Mar,Protein Bar,Instagram,27,20000.00,16200,1.2345679012346,Fitness,Instagram,155000
+5,MB_Bulk_Jan,Mass Gainer,YouTube,30,75000.00,60000,1.2500000000000,Fitness,YouTube,150000
+17,MB_Bulk_Feb,Mass Gainer,YouTube,38,95000.00,65000,1.4615384615385,Bodybuilding,YouTube,195000
+25,MB_Protein_Mar,Whey Protein,YouTube,48,115000.00,150000,0.7666666666667,Bodybuilding,YouTube,230000
+38,Wellness_Apr,Omega 3,Instagram,16,16000.00,8800,1.8181818181818,Wellness,Instagram,83000
+45,MB_Bulk_Apr,Mass Gainer,YouTube,38,95000.00,65000,1.4615384615385,Bodybuilding,YouTube,185000
+50,Wellness_Apr,Omega 3,Instagram,18,18000.00,9900,1.8181818181818,Wellness,Instagram,86000
+19,Fitness_Feb,Protein Bar,YouTube,32,24000.00,60000,0.4000000000000,Fitness,YouTube,160000
+22,Yoga_Mar,Yoga Mat,Instagram,13,13000.00,6500,2.0000000000000,Yoga,Instagram,88000
+37,MB_Bulk_Apr,Mass Gainer,YouTube,40,100000.00,70000,1.4285714285714,Bodybuilding,YouTube,190000
+44,Fitness_Apr,Protein Bar,Instagram,27,20250.00,14850,1.3636363636364,Fitness,Instagram,87000
+46,Yoga_Apr,Yoga Mat,Instagram,12,12000.00,6000,2.0000000000000,Yoga,Instagram,92000
+15,Fitness_Feb,Protein Bar,Instagram,26,19500.00,15600,1.2500000000000,Fitness,Instagram,135000
+18,HKVitals_Feb,Multivitamin,Instagram,20,20000.00,10000,2.0000000000000,Nutrition,Instagram,76000
+21,MB_Bulk_Mar,Mass Gainer,YouTube,36,90000.00,62000,1.4516129032258,Bodybuilding,YouTube,175000
+36,HKVitals_Apr,Multivitamin,Instagram,18,18000.00,9000,2.0000000000000,Nutrition,Instagram,75000
+41,MB_Protein_Apr,Whey Protein,YouTube,55,135000.00,180000,0.7500000000000,Bodybuilding,YouTube,225000
+42,HKVitals_Apr,Multivitamin,Instagram,20,20000.00,10000,2.0000000000000,Nutrition,Instagram,78000
+47,Fitness_Apr,Protein Bar,Instagram,33,24500.00,19800,1.2373737373737,Fitness,Instagram,160000
+48,HKVitals_Apr,Multivitamin,Instagram,17,17000.00,8500,2.0000000000000,Nutrition,Instagram,74000
+29,MB_Bulk_Mar,Mass Gainer,YouTube,42,105000.00,70000,1.5000000000000,Bodybuilding,YouTube,205000
+26,Wellness_Mar,Omega 3,Instagram,15,15000.00,8250,1.8181818181818,Wellness,Instagram,84000
+43,Fitness_Apr,Protein Bar,Instagram,29,21500.00,17400,1.2356321839080,Fitness,Instagram,150000
+12,HKVitals_Feb,Multivitamin,Instagram,16,16000.00,8000,2.0000000000000,Nutrition,Instagram,73000
+28,Yoga_Mar,Yoga Mat,Instagram,12,12000.00,6000,2.0000000000000,Yoga,Instagram,92000
+31,Fitness_Apr,Protein Bar,Instagram,30,22500.00,18000,1.2500000000000,Fitness,Instagram,148000
+39,Fitness_Apr,Protein Bar,Instagram,31,23000.00,18600,1.2365591397849,Fitness,Instagram,142000
+40,Yoga_Apr,Yoga Mat,Instagram,13,13000.00,6500,2.0000000000000,Yoga,Instagram,91000
+32,Fitness_Apr,Protein Bar,Instagram,25,18750.00,13750,1.3636363636364,Fitness,Instagram,86000
+34,Yoga_Apr,Yoga Mat,Instagram,14,14000.00,7000,2.0000000000000,Yoga,Instagram,90000
+2,MB_Protein_Jan,Whey Protein,Instagram,18,36000.00,12600,2.8571428571429,Wellness,Instagram,85000
+11,Fitness_Feb,Protein Bar,Instagram,28,21000.00,16800,1.2500000000000,Fitness,Instagram,140000
+13,MB_Protein_Feb,Whey Protein,YouTube,50,120000.00,160000,0.7500000000000,Bodybuilding,YouTube,250000
+33,MB_Protein_Apr,Whey Protein,YouTube,52,125000.00,85000,1.4705882352941,Bodybuilding,YouTube,215000
+3,MB_Protein_Jan,Whey Protein,YouTube,40,92000.00,100000,0.9200000000000,Bodybuilding,YouTube,200000
+10,Yoga_Jan,Yoga Mat,Instagram,10,10000.00,5000,2.0000000000000,Yoga,Instagram,87000
+35,Fitness_Apr,Protein Bar,Instagram,28,21000.00,16800,1.2500000000000,Fitness,Instagram,132000
+49,MB_Protein_Apr,Whey Protein,YouTube,50,122000.00,80000,1.5250000000000,Bodybuilding,YouTube,240000
+8,Fitness_Jan,Protein Bar,Instagram,20,15000.00,9000,1.6666666666667,Fitness,Instagram,92000
+30,HKVitals_Mar,Multivitamin,Instagram,19,19000.00,9500,2.0000000000000,Nutrition,Instagram,77000
