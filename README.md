@@ -1,29 +1,31 @@
-# HealthKart Influencer Campaign Analysis
+# Influencer Campaign Performance Analysis
 
-This project analyzes influencer marketing performance using simulated campaign data.
+This project analyzes influencer marketing performance using SQL and visualizes insights through a Tableau dashboard.
 
 ## Objective
-Evaluate influencer campaigns based on revenue, payout, and ROAS to identify high-performing channels and optimization opportunities.
+Evaluate campaign efficiency using ROAS (Return on Ad Spend) and identify high-performing influencers, platforms, and product segments.
 
-## Key Components
-- Data modeling using SQL (fact + dimension approach)
-- Campaign performance analysis (ROAS, revenue, efficiency)
-- Segmentation by influencer size, platform, and category
+## Tech Stack
+- SQL (Databricks)
+- Tableau (Dashboard)
+- Data Modeling (fact + dimension approach)
 
 ## Key Insights
-- Micro influencers showed better ROAS compared to larger influencers
-- Some campaigns generated revenue but were not profitable
-- Instagram outperformed YouTube in conversion efficiency
-- A small set of influencers drove most of the returns
+- Micro influencers outperform macro influencers in ROAS
+- Instagram campaigns deliver higher returns than YouTube
+- A small group of influencers drives most of the profitability
+- Some campaigns generate revenue but are not cost-efficient
 
-- ## Project Structure
+## Dashboard
+![Dashboard](assets/Influencer_Performance_Dashboard.png)
+
+## Project Structure
 - `data_modeling.sql` → table creation and data modeling
 - `analysis.ipynb` → queries, outputs, and insights
+- `final_dataset.csv` → dataset used for dashboard
 
-## Stack
-- SQL (Databricks)
-- Data modeling (fact/dimension)
-- Analytical querying
+## Outcome
+Provides actionable insights on where to allocate marketing budget for maximum ROI.
 
-## Next Step
-Dashboard visualization for business reporting
+## Live Dashboard
+[View on Tableau Public](https://public.tableau.com/app/profile/divjyot.singh.suri/viz/HealthKartInfluencerPerformanceDashboard/Dashboard1)
