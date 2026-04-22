@@ -30,7 +30,7 @@ The project follows a simple analytics modeling approach with a central fact tab
 - **PAYOUTS** → Cost layer (influencer payouts)  
 - **POSTS** → Engagement data (likes, comments)
 
-![Data Model](assets/Healthkart%20Data%20Model.png)
+![Data Model](assets/Healthkart_Data_Model.png)
 
 ## Project Structure
 - `data_modeling.sql` → table creation and data modeling
