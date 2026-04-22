@@ -20,6 +20,18 @@ Evaluate campaign efficiency using ROAS (Return on Ad Spend) and identify high-p
 ## Dashboard
 ![Dashboard](assets/Influencer_Performance_Dashboard.png)
 
+## 🧱 Data Model
+
+The project follows a simple analytics modeling approach with a central fact table.
+
+- **FACT_CAMPAIGN** → Aggregated performance metrics  
+- **INFLUENCERS** → Influencer attributes (category, followers, platform)  
+- **TRACKING_DATA** → Raw campaign performance data  
+- **PAYOUTS** → Cost layer (influencer payouts)  
+- **POSTS** → Engagement data (likes, comments)
+
+![Data Model](assets/Healthkart%20Data%20Model.png)
+
 ## Project Structure
 - `data_modeling.sql` → table creation and data modeling
 - `analysis.ipynb` → queries, outputs, and insights
