@@ -11,10 +11,11 @@ Evaluate campaign efficiency using ROAS (Return on Ad Spend) and identify high-p
 - Data Modeling (fact + dimension approach)
 
 ## Key Insights
-- Micro influencers outperform macro influencers in ROAS
-- Instagram campaigns deliver higher returns than YouTube
-- A small group of influencers drives most of the profitability
-- Some campaigns generate revenue but are not cost-efficient
+- Top influencers deliver ROAS between ~2.0–2.85, while the lowest performers fall below ~0.75, showing a 3–4x gap in efficiency.
+- Overall ROAS is ~1.19, indicating campaigns are only marginally profitable and can be optimized further.
+- Micro influencers achieve ~1.91 ROAS vs ~1.05 for macro influencers, making them significantly more efficient despite lower reach.
+- Instagram campaigns show ~1.76 ROAS compared to ~1.16 on YouTube, suggesting better conversion efficiency on Instagram.
+- Categories like Nutrition and Wellness reach ~2.0+ ROAS, while others are closer to ~1.2, highlighting clear differences in product performance.
 
 ## Dashboard
 ![Dashboard](assets/Influencer_Performance_Dashboard.png)
